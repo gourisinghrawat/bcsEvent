@@ -4,7 +4,7 @@ div {
 
 
 body {
-    color: #40514E;
+    color: #6cee52;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #66BFBF;
+    color: #8abf66;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: #75bf66;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -38,17 +38,15 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #cc00ff 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: #37119e;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
-
-a…
